@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](https://images.app.goo.gl/62KYaEacU51VFihWA) <!-- No olvides subir el banner a tu repo y enlazarlo -->
+![Texto alternativo](https://images.app.goo.gl/DjgxASbXMq1XVbJcA)
 
 ---
 
