@@ -2,7 +2,7 @@
 
 ---
 
-![Banner](img/GitHub%20-%20google-research-datasets_noun-verb_%20This%20dataset%20contains%20naturally-occurring%20English%20sentences%20that%20feature%20non-trivial%20noun-verb%20ambiguity_.jpg) <!-- No olvides subir el banner a tu repo y enlazarlo -->
+![Banner](https://pin.it/3FGFqK1eX) <!-- No olvides subir el banner a tu repo y enlazarlo -->
 
 ---
 
