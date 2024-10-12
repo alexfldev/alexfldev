@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejandro 👨‍💻
 
 ---
-![GitHub Marketing](https://raw.githubusercontent.com/github/explore/main/topics/github/github.png)
+![GitHub Desktop](https://github.githubassets.com/images/modules/logos_page/GitHub-Desktop.png)
 ---
 
 ## 📖 Sobre mí.
