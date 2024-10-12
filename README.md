@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejandro 👨‍💻
 
 ---
-![GitHub Desktop](https://github.githubassets.com/images/modules/logos_page/GitHub-Desktop.png)
+![GitHub Actions](https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png)
 ---
 
 ## 📖 Sobre mí.
