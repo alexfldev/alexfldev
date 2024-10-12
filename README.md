@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejandro 👨‍💻
 
 ---
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 ---
 
 ## 📖 Sobre mí.
