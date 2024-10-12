@@ -2,7 +2,7 @@
 
 ---
 
-![Texto alternativo](https://images.app.goo.gl/DjgxASbXMq1XVbJcA)
+![Texto alternativo](https://images.app.goo.gl/mRXaCskyCUEieudR9)
 
 ---
 
