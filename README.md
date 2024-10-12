@@ -2,7 +2,7 @@
 
 ---
 
-![Texto alternativo](https://images.app.goo.gl/mRXaCskyCUEieudR9)
+![GIT](https://images.app.goo.gl/mRXaCskyCUEieudR9)
 
 ---
 
