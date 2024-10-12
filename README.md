@@ -1,7 +1,7 @@
 # ¡Hola! Soy Alejandro 👨‍💻
 
 ---
-![GitHub Actions](https://raw.githubusercontent.com/github/explore/main/topics/actions/actions.png)
+![GitHub CLI](https://raw.githubusercontent.com/github/explore/main/topics/cli/cli.png)
 ---
 
 ## 📖 Sobre mí.
