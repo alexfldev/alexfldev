@@ -2,7 +2,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/OctoLinker/OctoLinker/master/media/banner.png" alt="GitHub Banner" style="max-width: 100%; height: auto;">
+![Octocat](https://raw.githubusercontent.com/github/octicons/master/icons/mark-github.svg)
 ---
 
 ## 📖 Sobre mí.
