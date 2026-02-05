@@ -1,76 +1,17 @@
-# ⚡ [[ SYSTEM_OVERRIDE: INITIALIZED ]]
+Aquí tienes el código completo, unificado en un solo bloque para que simplemente lo copies y lo pegues en tu archivo README.md. He optimizado los colores, añadido el efecto de glitch dinámico y ajustado la estética para que parezca una terminal de operaciones ofensivas real.Markdown# <p align="center">── ⚡ [[ SYSTEM_OVERRIDE: INITIALIZED ]] ──</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=>>+OPERATOR+PROFILE+LOADED...;>>+RED+TEAM+SPECIALIST;>>+BYPASSING+DEFENSES...;>>+HACK+THE+PLANET." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=>>+OPERATOR+PROFILE+LOADED...;>>+RED+TEAM+SPECIALIST;>>+BYPASSING+DEFENSES...;>>+ENCRYPTING+RESOURCES...;>>+HACK+THE+PLANET." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=050505&height=120&section=header&text=ACCESS_GRANTED&fontSize=80&animation=fadeIn&fontColor=00FF00" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=glitch&color=000000&height=120&section=header&text=ACCESS_GRANTED&fontSize=70&animation=twinkling&fontColor=00FF00" width="100%" />
 </p>
 
 ## 📂 LOG_DATAFRAME: ~/identity
-> **STATUS:** `STABLE` | **LOCATION:** `ENCRYPTED` | **THREAT_LEVEL:** `CRITICAL`
-
 ```diff
-+ [ACTIVE] Red Team Operations
-+ [ACTIVE] Malware Development & Obfuscation
-+ [ACTIVE] Advanced Infrastructure Penetration
-- [DISABLED] Script Kiddie Behavior
-
-## 📂 TERMINAL_ACCESS: ~/about_me
-> **STATUS:** <span style="color: #00FF00;">ACTIVE</span>  
-> **ROLE:** Red Team Operator / Security Researcher  
-> **MISSION:** Identifying vulnerabilities before the bad guys do.
-
-* 🔭 **Current Ops:** Bypassing EDRs & Advanced Persistence.
-* 💀 **Philosophy:** "Security is an illusion, anonymity is a shield."
-* 📡 **Signals:** Scanning for misconfigurations 24/7.
-
----
-
-## 🛠️ OFFENSIVE_ARSENAL (Toolstack)
-
-### 🔴 Red Teaming & Exploitation
-![Kali](https://img.shields.io/badge/-Kali_Linux-000000?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=red)
-![BurpSuite](https://img.shields.io/badge/-Burp_Suite-000000?style=flat-square&logo=burp-suite&logoColor=orange)
-![CobaltStrike](https://img.shields.io/badge/-Cobalt_Strike-000000?style=flat-square&logo=target&logoColor=white)
-
-### 💻 Malware Dev & Scripting
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=00ADD8)
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-
----
-
-## 🚀 TOP_TIER_OPERATIONS (Repositorios)
-
-| Operation | Objective | Access |
-| :--- | :--- | :---: |
-| **Project Shadow** | AV/EDR Evasion Framework | [DECRYPT](https://github.com/TU_USUARIO/repo) |
-| **AD-Recon** | Active Directory Enumeration Tool | [DECRYPT](https://github.com/TU_USUARIO/repo) |
-| **Root-Kit-Lab** | Research on kernel-level persistence | [DECRYPT](https://github.com/TU_USUARIO/repo) |
-
----
-
-## 📊 SYSTEM_ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO>&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF00&icon_color=FF0000&text_color=FFFFFF" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TU_USUARIO>&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" height="180px" />
-</p>
-
----
-
-## ⚠️ CLASSIFIED_INTEL: LEGAL_DISCLAIMER
-> [!CAUTION]
-> **READ CAREFULLY:** All tools and scripts provided in this profile are for **educational purposes and authorized security auditing only**. Unauthorized access to systems is illegal and unethical. Use your skills for good. I am not responsible for any misuse of the information provided.
-
----
-
-## 📞 ENCRYPTED_COMMS
-<p align="left">
-  <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="TU_LINK_THM"><img src="https://img.shields.io/badge/-TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="TU_LINK_HTB"><img src="https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" /></a>
-</p>
++ [AUTH] User: <TU_ALIAS_AQUÍ>
++ [AUTH] Role: Red Team Operator / Security Researcher
++ [AUTH] Status: Undetected
+- [WARN] Firewall: Bypassed
+MISSION_LOG: Especializado en el compromiso de infraestructuras, desarrollo de herramientas de explotación personalizadas y técnicas de post-explotación en entornos Active Directory. Mi enfoque es entender la brecha para fortalecer la defensa.🛠️ OFFENSIVE_ARSENAL (Weaponry)🔴 Red Teaming & Infiltration<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/KALI-LINUX-%2523557C94.svg%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/METASPLOIT-%2523CC0000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/BURPSUITE-%2523FF6633.svg%3Fstyle%3Dfor-the-badge%26logo%3Dburp-suite%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/COBALTSTRIKE-%2523005A9C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtarget%26logoColor%3Dwhite" /></p>💻 Malware Dev & Scripting<p align="left"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PYTHON-%25233776AB.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/GO-%252300ADD8.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/POWERSHELL-%25235391FE.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" /></p>🚀 TOP_TIER_OPERATIONS (Repositorios)OperationObjectiveStatusAccessProject ShadowAV/EDR Evasion FrameworkSTABLEDECRYPTAD-ReconActive Directory EnumerationACTIVEDECRYPTRoot-Kit-LabKernel-level persistenceRESEARCHDECRYPT📊 SYSTEM_ANALYTICS<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=<TU_USUARIO>&show_icons=true&theme=terminal&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" height="170px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<TU_USUARIO>&layout=compact&theme=terminal&hide_border=true&title_color=00FF00&text_color=FFFFFF" alt="Top Languages" height="170px" /></p>⚠️ CLASSIFIED_INTEL: LEGAL_DISCLAIMER[!CAUTION]READ CAREFULLY: Todas las herramientas y scripts en este perfil son para fines educativos y auditorías de seguridad autorizadas. El acceso no autorizado a sistemas es estrictamente ilegal. No me hago responsable del uso indebido de esta información.📞 ENCRYPTED_COMMS<p align="center"><a href="TU_LINK_LINKEDIN"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a><a href="TU_LINK_THM"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-990000%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" /></a><a href="TU_LINK_HTB"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackTheBox-9FEF00%3Fstyle%3Dfor-the-badge%26logo%3Dhack-the-box%26logoColor%3Dblack" /></a></p><p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update-Templates/screenshots/rainbow-thin.gif" width="100%" height="3px"></p>
