@@ -14,3 +14,7 @@
 + [AUTH] Role: Red Team Operator / Security Researcher
 + [AUTH] Status: Undetected
 - [WARN] Firewall: Bypassed
+
+🛠️ OFFENSIVE_ARSENAL (Weaponry)
+🔴 Red Teaming & Infiltration
+<p align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/KALI-LINUX-%2523557C94.svg%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/METASPLOIT-%2523CC0000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/BURPSUITE-%2523FF6633.svg%3Fstyle%3Dfor-the-badge%26logo%3Dburp-suite%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/COBALTSTRIKE-%2523005A9C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtarget%26logoColor%3Dwhite" /> </p>
