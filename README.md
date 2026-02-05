@@ -1,59 +1,36 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D7263D&center=true&vCenter=true&width=500&lines=root@alexfldev:~$+whoami;>+Status:+HUNTING_VULNS;>+Red+Team+Apprentice" alt="Typing SVG" />
-
-<img src="https://raw.githubusercontent.com/Some-Donut/Some-Donut/master/assets/cyberpunk-divider.gif" width="100%">
-
-</div>
-
-### 📂 `[SYSTEM_INFO]`
-
-| 🖥️ HARDWARE / OS | 🛰️ NETWORK & STATUS |
-| :--- | :--- |
-| **User:** `alexfldev` | **Status:** `Online` |
-| **OS:** `Kali Linux Rolling` | **IP:** `127.0.0.1` |
-| **Kernel:** `6.8.0-amd64` | **Target:** `Pentesting / Red Team` |
-| **Shell:** `zsh` | **Focus:** `Offensive Security` |
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=F71E1E&center=true&vCenter=true&width=800&lines=root@alexfldev:~%23+init_sequence;%3E+Loading+Red+Team+Operator+Profile...;%3E+Target:+Ciberseguridad+Ofensiva" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
-### 🕵️‍♂️ `[BIOGRAPHY]`
+### `> [WHOAMI]`
 
 ```bash
-# cat /home/alex/about_me.txt
+$ whoami
+alexfldev
 
-- Técnico Superior en DAM transicionando a Ciberseguridad Ofensiva.
-- Mi objetivo: Entender cómo se construye el software para aprender a auditarlo.
-- Especialización: Pentesting Web y automatización de exploits con Python.
-⚔️ [TOOLKIT_SUMMARY]
-Python
-# Listado de herramientas y lenguajes tácticos
+$ cat /etc/role
+"Técnico Superior en DAM mutando hacia la Ciberseguridad Ofensiva."
 
-Offensive = ["Web Pentesting", "Nmap", "Burp Suite", "Metasploit"]
-Scripting  = ["Python", "Bash", "Java", "C#", "SQL"]
-Infrastructure = ["Linux (Kali/Parrot)", "Docker", "Virtualization"]
-Physical_Sec = ["3D Printing", "Hardware Hacking"]
-🚩 [FIELD_EXPERIENCE]
-<div align="center">
-
-<a href="TU_LINK_THM"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-User-C1232B%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" /> </a> &nbsp; <a href="TU_LINK_HTB"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HackTheBox-Operative-9FCA56%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite%26color%3D1a2332" /> </a>
-
-</div>
-
-📡 [ESTABLISH_CONNECTION]
-Bash
-$ nc -nvlp 443 alexfldev.connect
-<div align="center"> <a href="https://www.linkedin.com/in/alex-lozano-9252502b3/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
-
-<div align="center"> <code>[CONNECTION_ID: 0x8A2F91 - STATUS: SECURE]</code> </div>
-
-
------
-
-### ¿Por qué ahora sí se verá recto?
-
-1.  **Tablas simples**: He sustituido el ASCII Art lateral por una tabla de 2 columnas. En GitHub, las tablas son bloques sólidos que no se rompen aunque las veas en un móvil.
-2.  **Bloques de código independientes**: Al poner tu biografía y tus herramientas dentro de bloques ` ```bash ` y ` ```python `, forzamos a que el texto use una fuente monoespaciada (la de los hackers) y que se mantenga dentro de su caja gris.
-3.  **Sin "floats"**: El problema de las fotos anteriores era que intentábamos flotar texto a la derecha de una imagen. En Markdown, eso es una lotería que suele salir mal. Esta estructura vertical es **robusta**.
-
-**¿Quieres que añada alguna sección de "Proyectos" donde pongamos tus herramientas en construcció
+$ echo $MISSION
+"Mi objetivo es entender cómo construyen el software para luego romperlo. Especialización en Pentesting Web y automatización de ataques."
+> [SYSTEM_RECON_REPORT]JSON{
+  "TARGET_SYSTEM": {
+    "hostname": "alexfldev-lab",
+    "os": "Kali Linux Rolling (Red Team Edition)",
+    "kernel": "6.8.0-kali-amd64",
+    "status": "ACTIVE_HUNTING"
+  },
+  "OPERATOR_SPECS": {
+    "focus": ["Red Team Ops", "Pentesting Web", "Exploit Dev"],
+    "methodology": "OWASP Top 10 / MITRE ATT&CK",
+    "favorite_shell": "/bin/zsh"
+  }
+}
+> [ATTACK_VECTORS_&_TOOLKIT]🗡️ OFENSIVA📜 SCRIPTING🛡️ ENTORNOWeb App PentestingPython (Exploits)Kali LinuxReconocimientoBash (Automación)Burp SuiteSQL Injection & XSSC# / Java (Source)MetasploitNetwork AuditingSQL (DB Attacks)Docker Labs> [CTF_LOGS]<p align="center"><a href="TU_LINK_THM"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-User-C1232B%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" /></a>&nbsp;<a href="TU_LINK_HTB"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackTheBox-Operative-9FCA56%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite%26color%3D1a2332" /></a></p>> [END_OF_TRANSMISSION]Bash$ nc -nvlp 443 -e /bin/sh
+Listening on [0.0.0.0] (family 2, port 443)
+Connection from [LINKEDIN] received!
+<p align="center"><a href="https://www.linkedin.com/in/alex-lozano-9252502b3/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/ESTABLISH_CONNECTION-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" /></a></p>
