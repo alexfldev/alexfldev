@@ -1,34 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D7263D&center=true&vCenter=true&width=500&lines=root@alexfldev:~$+init;>+Red+Team+Apprentice;>+Pentesting+|+Exploitation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=D7263D&center=true&vCenter=true&width=500&lines=root@alexfldev:~$+whoami;>+Status:+HUNTING_VULNS;>+Red+Team+Apprentice" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Some-Donut/Some-Donut/master/assets/cyberpunk-divider.gif" width="100%">
 
 </div>
 
-### 🕵️‍♂️ `> whoami`
+### 📂 `[SYSTEM_INFO]`
+
+| 🖥️ HARDWARE / OS | 🛰️ NETWORK & STATUS |
+| :--- | :--- |
+| **User:** `alexfldev` | **Status:** `Online` |
+| **OS:** `Kali Linux Rolling` | **IP:** `127.0.0.1` |
+| **Kernel:** `6.8.0-amd64` | **Target:** `Pentesting / Red Team` |
+| **Shell:** `zsh` | **Focus:** `Offensive Security` |
+
+---
+
+### 🕵️‍♂️ `[BIOGRAPHY]`
 
 ```bash
-$ cat /etc/motd
-"Técnico Superior en DAM transicionando a Ciberseguridad Ofensiva."
-Target: Especialización en Red Team y Pentesting Web.Weapon of Choice: Python y Bash para automatización de exploits.Current Mission: Finalizando Máster Propio en Ciberseguridad.🖥️ > system_statusBashuser@alexfldev:~$ neofetch
-       .---.               user@alexfldev
-      /     \              --------------
-      |() ()|              OS: Kali Linux Rolling
-       \  ^  /             Kernel: 6.8.0-kali-amd64
-        |||||              Uptime: 24/7
-        |||||              Shell: zsh 5.9
-                           CPU: Intel i7 (Lab Edition)
-                           Memory: 32GB
-                           Status: HUNTING_VULNS
-⚔️ > arsenal_técnicoRed Team OpsScripting / DevEntornoPentesting Web (OWASP)Python (Exploits)Kali LinuxEnumeración / ReconBash (Automación)Burp SuiteSQLi & XSSC# / Java (Source Analysis)MetasploitNetwork AuditingSQL (DB Hacking)Docker Labs🚩 > training_grounds<div align="center"><a href="TU_LINK_AQUÍ"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-User-C1232B%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" /></a>&nbsp;<a href="TU_LINK_AQUÍ"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackTheBox-Operative-9FCA56%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite%26color%3D1a2332" /></a></div>⚡ > side_quests🖨️ Físico: Explorando seguridad física mediante Impresión 3D.🧠 Superpoder: Capacidad para leer código ofuscado (en proceso...).🤝 Open Source: Colaborando en herramientas de seguridad.<div align="center"><a href="https://www.linkedin.com/in/alex-lozano-9252502b3/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/ESTABLISH_CONNECTION-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" /></a><code>[SYSTEM_CONNECTED_AS_ALEXFLDEV]</code></div>
+# cat /home/alex/about_me.txt
+
+- Técnico Superior en DAM transicionando a Ciberseguridad Ofensiva.
+- Mi objetivo: Entender cómo se construye el software para aprender a auditarlo.
+- Especialización: Pentesting Web y automatización de exploits con Python.
+⚔️ [TOOLKIT_SUMMARY]
+Python
+# Listado de herramientas y lenguajes tácticos
+
+Offensive = ["Web Pentesting", "Nmap", "Burp Suite", "Metasploit"]
+Scripting  = ["Python", "Bash", "Java", "C#", "SQL"]
+Infrastructure = ["Linux (Kali/Parrot)", "Docker", "Virtualization"]
+Physical_Sec = ["3D Printing", "Hardware Hacking"]
+🚩 [FIELD_EXPERIENCE]
+<div align="center">
+
+<a href="TU_LINK_THM"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-User-C1232B%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" /> </a> &nbsp; <a href="TU_LINK_HTB"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HackTheBox-Operative-9FCA56%3Fstyle%3Dfor-the-badge%26logo%3Dhackthebox%26logoColor%3Dwhite%26color%3D1a2332" /> </a>
+
+</div>
+
+📡 [ESTABLISH_CONNECTION]
+Bash
+$ nc -nvlp 443 alexfldev.connect
+<div align="center"> <a href="https://www.linkedin.com/in/alex-lozano-9252502b3/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
+
+<div align="center"> <code>[CONNECTION_ID: 0x8A2F91 - STATUS: SECURE]</code> </div>
+
+
 -----
 
-### ¿Qué hemos arreglado?
+### ¿Por qué ahora sí se verá recto?
 
-1.  **Alineación del Neofetch:** He cambiado el logo de Kali (que es muy ancho) por uno de "calavera/hacker" más estrecho y lo he metido TODO dentro de un bloque de código ` ```bash `. Esto asegura que el texto de la derecha no se baje ni se tuerza.
-2.  **Título sin cortes:** He reducido el ancho (`width=500`) del SVG de título para que no se salga de la pantalla en dispositivos pequeños.
-3.  **Tablas limpias:** He eliminado el HTML complejo dentro de las tablas de habilidades para que GitHub las renderice de forma nativa y "recta".
-4.  **Separador estable:** He usado un separador GIF que se ajusta al 100% del ancho para mantener la estética ciberpunk sin romper el layout.
+1.  **Tablas simples**: He sustituido el ASCII Art lateral por una tabla de 2 columnas. En GitHub, las tablas son bloques sólidos que no se rompen aunque las veas en un móvil.
+2.  **Bloques de código independientes**: Al poner tu biografía y tus herramientas dentro de bloques ` ```bash ` y ` ```python `, forzamos a que el texto use una fuente monoespaciada (la de los hackers) y que se mantenga dentro de su caja gris.
+3.  **Sin "floats"**: El problema de las fotos anteriores era que intentábamos flotar texto a la derecha de una imagen. En Markdown, eso es una lotería que suele salir mal. Esta estructura vertical es **robusta**.
 
-¿Te gustaría que te ayude a crear una imagen personalizada con tu nombre y el logo de Anony
+**¿Quieres que añada alguna sección de "Proyectos" donde pongamos tus herramientas en construcció
