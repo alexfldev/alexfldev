@@ -1,50 +1,66 @@
-# ¡Hola! Soy Alexfldev👨‍💻
+<h1 align="center">root@alexfldev:~$ 👋</h1>
 
----
-![GitHub CLI](https://raw.githubusercontent.com/github/explore/main/topics/cli/cli.png)
----
-
-## 📖 Sobre mí.
-
-¡Hola! Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** en formación. Me apasiona la **tecnología educativa**, la **ciberseguridad** y el **desarrollo de software**. Estoy en constante aprendizaje, mejorando mis habilidades y explorando nuevas áreas.
-
----
-
-## 🚀 Habilidades Técnicas
-
-| **Lenguajes**         | **Herramientas**    | **Áreas de Interés** |
-|-----------------------|---------------------|----------------------|
-| Python, Java, C#      | Git, VS Code        | Programación orientada a objetos |
-| HTML, CSS, JavaScript | Linux, MySQL        | Ciberseguridad |
-| SQL, Bash scripting   | Docker (básico)     | Tecnología educativa |
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F71E1E&center=true&vCenter=true&width=435&lines=Desarrollador+DAM;Ciberseguridad+Ofensiva;Pentester+en+formaci%C3%B3n;Red+Team+Apprentice" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🌟 Cosas interesantes
+### 🕵️‍♂️ Sobre mí (whoami)
 
-- 💻 Me encanta explorar **nuevas tecnologías** Impresion 3D.
-- 🔐 Actualmente estoy Estudiando  **ciberseguridad**  aplicando lo aprendido en mi máster propio.
-- 🎨 **Creador de modelos 3D** por diversión y negocio.
-- 🚀 Siempre buscando **mejorar mi código** y aprender nuevas metodologías.
+**Técnico Superior en DAM** transicionando al mundo de la **Ciberseguridad Ofensiva**. Actualmente cursando un Máster Propio en Ciberseguridad para especializarme .
 
-![Learning](https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif) <!-- Puedes cambiar el gif a uno que te guste más -->
-
----
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-lozano-9252502b3/)
+* 🧨 Mi pasión es entender la tecnología a bajo nivel para encontrar vulnerabilidades.
+* 🛠️ Utilizo mi background en desarrollo para crear scripts de automatización y entender mejor el código que audito.
+* 🚀 En constante aprendizaje, enfocándome en metodologías de **Red Team** y pentesting web.
+* 🔐 Obsesionado con mejorar mi código... y explotar el de otros (éticamente, por supuesto).
 
 ---
 
-## 🎨 Curiosidades sobre mí
+### ⚔️ Arsenal Técnico
 
-- 🔭 Actualmente estoy explorando el mundo de las **impresoras 3D**.
-- 🤝 Me encanta colaborar en proyectos open source y aprender de la comunidad.
-- ⚡ **Fun fact**: Si pudiera tener un superpoder, sería depurar código con solo mirarlo. 👀
+He dejado atrás las herramientas de desarrollo estándar para centrarme en un enfoque táctico:
 
-![Coding](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+| **Red Team Ops (Ofensivo)** | **Lenguajes de Scripting & Automatización** | **Entorno & Herramientas** |
+| :--- | :--- | :--- |
+| Web App Pentesting | 🐍 **Python** (Para exploits y herramientas) | 🐧 **Linux** (Kali/Parrot como daily driver) |
+| Análisis de Vulnerabilidades | 🐚 **Bash Scripting** (Automatización) | 🔥 Burp Suite & Metasploit |
+| SQL Injection & XSS | C# & Java (Análisis de código fuente) | 🐳 Docker (Labs y aislamiento) |
+| CTFs & Wargames | SQL (Para entender y atacar BBDD) | git & VS Code |
 
 ---
 
-_"El aprendizaje nunca termina, y siempre hay algo más por crear."_ 🚀
+### 🚩 Campos de Entrenamiento (Stats)
+
+*Mis progresos en plataformas de hacking ético:*
+
+<p align="center">
+<a href="https://tryhackme.com/p/TU_USUARIO_DE_TRYHACKME"><img src="https://img.shields.io/badge/TryHackMe-User-AD1818?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+<a href="https://app.hackthebox.com/profile/TU_ID_DE_HACKTHEBOX"><img src="https://img.shields.io/badge/HackTheBox-User-9FCA56?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox"></a>
+</p>
+
+---
+
+### ⚡ Side Quests & Datos
+
+* 🖨️ **Ingeniería Física:** Exploro el mundo de las impresoras 3D (creando gadgets y entendiendo la seguridad física).
+* 🧠 **Mentalidad:** Si pudiera tener un superpoder, sería encontrar *0-days* y depurar código con solo mirarlo. 👀
+* 🤝 Siempre dispuesto a colaborar en proyectos Open Source relacionados con seguridad.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHI5anh5dDN4YjR5ZXB6Y3R5ZnJ6bWh5eXF6bWh5eXF6bWh5eXF6bWh5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A8NNZlHQA7DAI/giphy.gif" alt="Hacker GIF" width="400">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-lozano-9252502b3/">
+    <img src="https://img.shields.io/badge/Conectar%20en-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+ <em>"El aprendizaje nunca termina, especialmente cuando hay nuevos sistemas que vulnerar."</em> 🚀
+</p>
