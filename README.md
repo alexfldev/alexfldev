@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/6e8J9gP.gif" alt="Glitch Separator" width="100%">
+  <img src="https://i.pinimg.com/originals/c2/d8/0a/c2d80a0035842194304098563151587e.gif" alt="Glitch Separator" width="100%">
 </p>
 
 ---
