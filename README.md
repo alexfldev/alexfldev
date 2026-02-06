@@ -1,34 +1,66 @@
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5NHp6a2x5Y3c2aHk4a3E1eGZ6aHk4a3E1eGZ6aHk4a3E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBBS8cjk8ZG/giphy.gif" width="100%" style="border-radius: 10px;">
+
+<pre>
   _____  _____   ____       _ ______ _____ _______   __
  |  __ \|  __ \ / __ \     | |  ____/ ____|__   __|  \ \
  | |__) | |__) | |  | |    | | |__ | |       | |      \ \
  |  ___/|  _  /| |  | |_   | |  __|| |       | |       > >
  | |    | | \ \| |__| | |__| | |___| |____   | |      / /
  |_|    |_|  \_\\____/ \____/|______\_____|  |_|     /_/
+</pre>
+<b>[ ESTADO DEL SISTEMA: ONLINE ]</b>
+<br><br>
 
-          [ ESTADO DEL SISTEMA: ONLINE ]
-<p> <a href="https://www.google.com/search?q=https://github.com/tu-usuario/tu-repo/graphs/commit-activity"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Maintained%253F-yes-2ea44f%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="Maintained"> </a> <a href="https://opensource.org/licenses/MIT"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-00599d%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite" alt="License"> </a> <a href="https://www.google.com/search?q=https://github.com/tu-usuario/tu-repo"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Security-Max-d01028%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" alt="Security"> </a> </p>
+<p>
+<img src="https://img.shields.io/badge/Maintained%3F-yes-2ea44f?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/License-MIT-00599d?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Security-Max-d01028?style=for-the-badge&logo=kali-linux&logoColor=white">
+</p>
 
 </div>
 
-🟢 >_ Iniciar Transmisión...
-<a href="https://git.io/typing-svg"> <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Flines%3DInicializando%2Bprotocolo...%3BDesplegando%2Bsoluci%C3%B3n%2Ben%2Blas%2Bsombras...%3BEl%2Bc%C3%B3digo%2Bes%2Bley,%2Bnosotros%2Blas%2Bexcepciones.%3BACCESO%2BCONCEDIDO.%26font%3DFira%2BCode%26center%3Dfalse%26width%3D500%26height%3D50%26color%3D39ff14%26vCenter%3Dtrue%26pause%3D1000%26size%3D20" alt="Typing SVG"> </a>
+---
 
-[NOMBRE_DEL_PROYECTO] no es solo una herramienta; es un protocolo de intervención diseñado para [DESCRIBE TU PROYECTO AQUÍ DE FORMA ÉPICA]. Desarrollado para operar bajo el radar.
+### 🟢 >_ Iniciar Transmisión...
 
-<div align="center"> <img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100%"> </div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Inicializando+protocolo...;Desplegando+solución+en+las+sombras...;El+código+es+ley,+nosotros+las+excepciones.;ACCESO+CONCEDIDO.&font=Fira+Code&center=false&width=500&height=50&color=39ff14&vCenter=true&pause=1000&size=20">
+</a>
 
-📺 // Protocolo Visual (Demo)
-Una demostración de la herramienta en funcionamiento.
+**[NOMBRE_DEL_PROYECTO]** no es solo una herramienta; es un protocolo de intervención diseñado para **[DESCRIBE TU PROYECTO]**. Desarrollado para operar bajo el radar.
 
-<div align="center"> <img src="https://www.google.com/search?q=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5NHp6a2x5Y3c2aHk4a3E1eGZ6aGZ6aHk4a3E1eGZ6aHk4a3E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBBS8cjk8ZG/giphy.gif" width="70%" style="border: 2px solid #39ff14; border-radius: 5px;"> <p><sub>[ Fig 1. Interfaz de ejecución ]</sub></p> </div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100%">
+</div>
 
-📂 // Módulos del Sistema
-Este repositorio contiene la arquitectura necesaria para desplegar la solución:
+### 📺 // Protocolo Visual (Demo)
 
-Núcleo : [Tecnología Principal] optimizada para latencia cero.
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" style="border: 2px solid #39ff14; border-radius: 5px;">
+  <p><sub>[ Fig 1. Interfaz de ejecución ]</sub></p>
+</div>
 
-Sigilo : Algoritmos de [Característica 1] indetectables.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100%">
+</div>
 
-Interfaz: Dashboard reactivo construido con [Framework].
+### 📂 // Módulos del Sistema
 
-<div align="center"> <img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="100%"> </div>
+Este repositorio contiene la arquitectura necesaria:
+
+* `Núcleo` : [Tecnología Principal] optimizada para latencia cero.
+* `Sigilo` : Algoritmos indetectables.
+* `Interfaz`: Dashboard reactivo construido con [Framework].
+
+---
+
+### ⚡ >_ Secuencia de Instalación
+
+Sigue estos pasos para compilar el código fuente.
+
+**1. Clonar el repositorio (Infiltración)**
+```bash
+git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
+cd nombre-del-repo
