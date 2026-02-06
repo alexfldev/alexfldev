@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce00ad239ae5be2.gif" width="80%" alt="Cyberpunk Header">
-
-```text
   _____  _____   ____       _ ______ _____ _______   __
  |  __ \|  __ \ / __ \     | |  ____/ ____|__   __|  \ \
  | |__) | |__) | |  | |    | | |__ | |       | |      \ \
