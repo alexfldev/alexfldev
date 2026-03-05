@@ -3,45 +3,45 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5NHp6a2x5Y3c2aHk4a3E1eGZ6aHk4a3E1eGZ6aHk4a3E1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBBS8cjk8ZG/giphy.gif" height="120px" style="border-radius: 10px;">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hola+Mundo%22);Cargando+módulos+DAM...;Inyectando+conocimientos+Ciberseguridad...;Perfil+de+Seguridad:+OFENSIVO/DEFENSIVO.;Bienvenido+al+Root.&font=Fira+Code&center=true&width=500&height=50&color=00ff00&vCenter=true&pause=1000&size=20" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22Hello+World%22);Loading+DAM+modules...;Injecting+Cybersecurity+knowledge...;Cyber+Defense+at+Telefónica;Security+Profile:+OFFENSIVE/DEFENSIVE.;Welcome+to+the+Root.&font=Fira+Code&center=true&width=500&height=50&color=00ff00&vCenter=true&pause=1000&size=20" alt="Typing SVG">
 </a>
 
 <p>
-<img src="https://img.shields.io/badge/Role-DevSecOps-red?style=for-the-badge&logo=kali-linux&logoColor=white">
-<img src="https://img.shields.io/badge/Base-DAM-blue?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Role-Cyber_Defense_Trainee-blue?style=for-the-badge&logo=telefonica&logoColor=white">
+<img src="https://img.shields.io/badge/Focus-SecOps_%26_Automation-red?style=for-the-badge&logo=kali-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Securing_the_Cloud-success?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 </div>
 
 ---
 
-### 🕵️‍♂️ // ¿Quién está detrás del teclado?
+### 🕵️‍♂️ // Who's behind the keyboard?
 
 `>_ Whoami`
 
-Soy un desarrollador que se pasó al lado oscuro (y luego volvió para protegerlo). Con una base sólida en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y especialización vía **Máster en Ciberseguridad**, construyo software seguro por diseño y rompo el que no lo es.
+I am a developer who pivoted to the dark side (and then returned to protect it). With a solid foundation in **Multiplatform Application Development (DAM)** and specialized in **Cybersecurity**, I build software secure by design and research vulnerabilities in what is not.
 
-* 🔭 **Actualmente trabajando en:** Auditoría de código y pentesting ético.
-* 🌱 **Aprendiendo:** Análisis de malware avanzado y Forense.
-* ⚠️ **Warning:** *El código es ley, pero yo busco los exploits.*
+* 🔭 **Currently working at:** **Telefónica** in the Cyber Defense team, focusing on process automation and security operations.
+* 🌱 **Learning:** Advanced malware analysis, SIEM/EDR monitoring, and SecOps.
+* ⚠️ **Warning:** *Code is law, but I look for the exploits.*
 
 ---
 
-### 🛠️ // Arsenal Tecnológico (Tech Stack)
+### 🛠️ // Technological Arsenal (Tech Stack)
 
-*Herramientas desplegadas en mi entorno local:*
+*Tools deployed in my local and corporate environment:*
 
-| Categoría | Tecnologías (Payloads) |
+| Category | Technologies (Payloads) |
 | :--- | :--- |
-| **💻 Lenguajes** | `Java`, `Python`, `C++`, `Bash Scripting`, `SQL` |
-| **🛡️ Ciberseguridad** | `Kali Linux`, `Wireshark`, `Metasploit`, `Nmap`, `Burp Suite` |
-| **🌐 Web/Redes** | `HTML5/CSS3`, `JavaScript`, `Cisco Packet Tracer`, `Apache` |
-| **🔧 Herramientas** | `Git`, `Docker`, `VirtualBox`, `VS Code` |
+| **💻 Languages** | `Java`, `Python`, `C++`, `Bash Scripting`, `SQL` |
+| **🛡️ Cybersecurity** | `Kali Linux`, `Wireshark`, `Metasploit`, `Nmap`, `Burp Suite` |
+| **⚡ Automation** | `Power Apps`, `Microsoft Power Platform`, `Shell Scripting` |
+| **🔧 Tools** | `Git`, `Docker`, `VirtualBox`, `VS Code` |
 
 ---
 
-### 📊 // Estadísticas de la Red
+### 📊 // Network Statistics
 
 <div align="center">
 <a href="https://github.com/tu-usuario">
@@ -54,9 +54,9 @@ Soy un desarrollador que se pasó al lado oscuro (y luego volvió para protegerl
 
 ---
 
-### 📡 // Establecer Conexión Encriptada
+### 📡 // Establish Encrypted Connection
 
-¿Tienes un proyecto o necesitas una auditoría? Inicia el handshake:
+Ready to collaborate or need a security insight? Start the handshake:
 
 <p align="center">
 <a href="https://linkedin.com/in/tu-perfil" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tu-usuario" /></a>
@@ -65,6 +65,6 @@ Soy un desarrollador que se pasó al lado oscuro (y luego volvió para protegerl
 
 <div align="center">
   <br>
-  <p><sub>[ FIRMA DIGITAL VÁLIDA: SHA-256 VERIFICADO ]</sub></p>
+  <p><sub>[ DIGITAL SIGNATURE VALID: SHA-256 VERIFIED ]</sub></p>
   <p><sub>EOF</sub></p>
 </div>
